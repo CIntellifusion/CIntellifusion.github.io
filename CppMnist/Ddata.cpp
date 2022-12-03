@@ -1,10 +1,52 @@
-# define _CRT_SECURE_NO_WARNINGS
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <vector>
+#include "layer.h"
+#include<vector>
+#include<iostream>
+#include<fstream>
 using namespace std;
-#define type double
+const char train_images[] = "D:\\c++\\CppMnist\\MNIST\\raw\\train - images - idx3 - ubyte";
+const char train_labels[] = "D:\\c++\\CppMnist\\MNIST\\raw\\train-labels-idx1-ubyte";
+const char t10k_images[] = "D:\\c++\\CppMnist\\MNIST\\raw\\t10k-images-idx3-ubyte";
+const char t10k_labels[] = "D:\\c++\\CppMnist\\MNIST\\raw\\t10k-labels-idx1-ubyte";
+vector<vector<double>> images;
+vector<double> labels;
+int ReverseInt(int i);
+void read_Mnist_Label(std::string filename, std::vector<double>& labels);
+void read_Mnist_Images(std::string filename, std::vector<std::vector<double>>& images);
+int main()
+{
+    read_Mnist_Images(t10k_images, images);
+	read_Mnist_Label(t10k_labels, labels);
+	int batch_size = 8;
+	Dataset* train = new Dataset(22, batch_size);
+	train->PrintIdx(); printf("\n");
+
+	train->shuffle();
+	train->shuffle();
+	train->load_batch();
+	printf("the first batch\n");
+	train->PrintIdx(); printf("\n");
+	for (int i = 0; i < batch_size; i++)
+	{
+		printf("%d ", train->batch_idx[i]);
+	}
+	printf("\n");
+	printf("the second batch\n");
+	train->PrintIdx(); printf("\n");
+	train->load_batch();
+	for (int i = 0; i < batch_size; i++)
+	{
+		printf("%d ", train->batch_idx[i]);
+	}
+	printf("\n");
+	printf("the third batch\n");
+	train->load_batch();
+	train->PrintIdx(); printf("\n");
+	for (int i = 0; i < batch_size; i++)
+	{
+		printf("%d ", train->batch_idx[i]);
+	}
+	printf("\n");
+}
 
 int ReverseInt(int i)
 {
@@ -16,7 +58,7 @@ int ReverseInt(int i)
 	return((int)ch1 << 24) + ((int)ch2 << 16) + ((int)ch3 << 8) + ch4;
 }
 
-void read_Mnist_Label(string filename, vector<double>& labels)
+void read_Mnist_Label(std::string filename, std::vector<double>& labels)
 {
 	ifstream file(filename, ios::binary);
 	if (file.is_open())
@@ -39,6 +81,7 @@ void read_Mnist_Label(string filename, vector<double>& labels)
 		}
 
 	}
+	else printf("unable to open file of labels\n");
 }
 
 void read_Mnist_Images(string filename, vector<vector<double>>& images)
