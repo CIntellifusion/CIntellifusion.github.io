@@ -40,7 +40,7 @@ Fortuna 钱财
 Fiero 凶猛的
 Súbdito 臣民
 Desilusión 失望
-Zarpa 
+Zarpa 熊掌
 Insoportable 不能忍受的
 Consentir 允许
 Agradar 使高兴
@@ -185,8 +185,8 @@ autovaloración 自我认同
 mediante 通过
 reconocimiento承认
 excelencia杰出
-pinto 尖锐的
-reverencia 
+pinto 花的，杂色的
+reverencia 鞠躬行礼
 seda 丝绸
 casco 船体
 lucero 星星
@@ -294,3 +294,73 @@ dar crédito a相信,信任
 fe相信信仰
 bendecir赐福，降福
 premiar奖赏，奖励
+menú 菜单
+al zar 任意的
+local 当地的
+con resignación 无可奈何的
+sólido 固态的
+coñac 白兰地
+insulto 侮辱的
+seriedad 严肃的
+profesionalidad 职业素养
+hostelería 饭店管理 
+turismo 旅游
+ahorrar 积蓄
+lujo 豪华
+estancia 房间
+kilómetro 千米
+agencia de viajes 旅行社
+red hotelera 酒店网
+excepcional 特殊的
+variedad 多样行
+establecimiento 设施
+geografía 地理
+clasificado 分类
+categoría 等级
+distinguirse 区分
+reducido 少的
+ostentar 显示，炫耀
+carecer de 缺少
+hostal 客栈，旅社
+modesto 简朴的
+construir 构成
+pensión 膳宿公寓
+tradición 传统
+instalación 设施
+sobriedad 朴素
+propietario 拥有所有权的
+oferta 供应
+litoral 海岸
+temporada 季节
+contratación 租用
+descuento 折扣
+carnet 手册
+facilitar 提供
+comodidad 方便
+folleto 小册子
+plano 城市地图
+detallado 详细的
+finalizar 结束
+a bordo 乘车时
+válido 有效的
+destino 目的地
+perplejo 困惑的
+arte 艺术
+estratégico 战略的
+clima 凄恻
+motor 动力 
+revelar 反映
+paisaje áspero 穷山恶水
+multitud 大量
+novedoso 新奇的
+puerto franco 自由港
+mirador 观景台
+faro 灯塔
+armonía 和谐
+semana santa 复活节
+Carnaval 狂欢节
+peculiar 特殊的
+apto 适合的
+discoteca 迪斯科舞厅
+coquetear  卖弄风情
+
