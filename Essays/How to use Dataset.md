@@ -38,3 +38,47 @@ cause the original type are iterable, we just need to few codes to realize it.
 
 but when we have a number of photos to recongize, it can be a little bit harder.
 
+
+
+> Now We look further into Dataset
+
+## Handle a batch of files
+
+Given that we are going to do a audio recongnize programs. And take MEAD dataset for an example.
+
+In this case, we need the help of os package which provides a number of powerful functions to handle directories and files. 
+
+The organization of MEAD dataset is like:
+
+```
+MEAD-
+	-M001
+		-audio
+			-angry
+				-oo1.m4a
+				-002.m4a
+				-003.m4a
+				....
+			-happy
+			...
+		-video
+	-M002
+	-M003
+	...
+```
+
+so our sample is a single .m4a file
+
+and we have to handle directory to fetch a file.
+
+```python
+class FetchM4a(nn.module):
+    def __init__(self,filepath):
+        #omit a relatively complex steps of handlings path
+    def __getitem__():
+        	1. get a random number
+            	2. read the file through os 
+    def __len__():
+        	len(os.listdir(path)).
+```
+
