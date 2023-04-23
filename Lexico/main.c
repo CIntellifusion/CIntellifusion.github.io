@@ -59,7 +59,7 @@ void lower(char* src)
         src[i]+=32;
     }
 }
-RecordNode* CrtDic(char* es,char* ch)
+RecordNode* CreateDicionary(char* es,char* ch)
 {
 
     RecordNode* D = (RecordNode*)malloc(sizeof(RecordNode));
@@ -76,7 +76,7 @@ RecordNode* CrtDic(char* es,char* ch)
     /*flag strcpy is wrong and can cause unable to malloc for a new record */
     strncpy(D->chin,ch,strlen(ch)+1);
     strncpy(D->espa,es,strlen(es)+1);
-    printf("%sEND\n",D->espa);
+    //printf("%s \n",D->espa);
     lower(D->espa);
     D->num = glnum;
     D->train=0;
@@ -98,9 +98,9 @@ void judge(char* input,RecordNode* D,double* acc)
 }
 void curlog(double acc,int num)
 {
-    printf("****************************************************\n");
+    printf("====================================================\n");
     printf("you have complete (%d\\%d),your current accuracy is %.2lf%c\n",num,glnum,100*(acc/num),'%');
-    printf("****************************************************\n");
+    printf("====================================================\n");
 }
 void Train(int wordnum)
 {
@@ -166,8 +166,15 @@ void Order(int n)
     system("pause");
     free(input);
 }
+void generate();
+void generate()
+{
+    
+}
+
 int main()
 {
+    // allocate buffer 
     char* buffer = (char*)malloc(100);
     char* es = (char*)malloc(50);
     char* ch = (char*)malloc(50);
@@ -176,24 +183,22 @@ int main()
     InitPointer(ch,50);
 
     SetConsoleOutputCP(65001);
-    //SetConsoleCP(65001);
     srand(time(0));
     FILE* fp = fopen("1.txt","r");
     while(fgets(buffer,100,fp))
     {
         //printf("%s",buffer);
         split(buffer,es,ch);
-        RecordNode* record = CrtDic(es,ch);
+        RecordNode* record = CreateDicionary(es,ch);
         List[glnum-1] = record;
         InitPointer(buffer,100);
         InitPointer(es,50);
-        InitPointer(ch,50);
-        //break;
+        InitPointer(ch,50);  
     }
     fclose(fp);
     printf("\n");
     int mode;
-    printf("Enter 1 for order ; 0 for random:\n");
+    printf("Enter 1 for order ; 0 for random ; 2:for questions \n"); 
     scanf("%d",&mode);
     getchar();
     int n;
@@ -201,7 +206,6 @@ int main()
     {
     case INORDER:
         printf("input start word num\n");
-      
         scanf("%d",&n);getchar();
         Order(n);
         break;
@@ -210,6 +214,9 @@ int main()
         scanf("%d",&n);
         Train(n);
         break;
+    case 2:
+        printf("randomly choose 10 words for you to generate sentences:\n");
+        generate();
     default:
         break;
     }
