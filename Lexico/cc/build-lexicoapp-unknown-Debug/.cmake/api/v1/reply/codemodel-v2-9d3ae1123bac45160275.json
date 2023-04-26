@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8979499dbf7260ac0d9b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lexicoapp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lexicoapp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lexicoapp-Debug-21cd8bb43ed0f4c3316f.json",
+					"name" : "lexicoapp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lexicoapp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lexicoapp_autogen-Debug-40dcaf2d8999d69000e1.json",
+					"name" : "lexicoapp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lexicoapp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lexicoapp_autogen_timestamp_deps-Debug-798f78dc007e1c263568.json",
+					"name" : "lexicoapp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/GitHub/CIntellifusion/Lexico/cc/build-lexicoapp-unknown-Debug",
+		"source" : "D:/GitHub/CIntellifusion/Lexico/cc/lexicoapp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

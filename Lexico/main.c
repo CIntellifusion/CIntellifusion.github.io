@@ -171,7 +171,7 @@ void generate()
 {
     
 }
-
+/utf-8
 int main()
 {
     // allocate buffer 
@@ -183,6 +183,7 @@ int main()
     InitPointer(ch,50);
 
     SetConsoleOutputCP(65001);
+    // SetConsoleInputCP(65001);
     srand(time(0));
     FILE* fp = fopen("1.txt","r");
     while(fgets(buffer,100,fp))
