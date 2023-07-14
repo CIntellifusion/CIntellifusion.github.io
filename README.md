@@ -1,6 +1,5 @@
 # Haoyu Wu
 - undergraduate student in RUC
-- 
 # Research experience
 
 ## EmoTalk: Speech-driven emotional disentanglement for 3D face animation
