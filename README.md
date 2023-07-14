@@ -1,9 +1,8 @@
 # Haoyu Wu
-I am currently a second-year undergraduate from the school of foriegn language in RUC But I am not interested in it at all. 
 
-I am searching my interest in the field of computer science. I am excited about every single advance made in CS. More specifically, I am curious about AI and relative fields. I already know a bit on transfomers,  bert , diffusion and contrastive learning.   For now, I am looking forward to learn something about High performance calculations， Heterogeneous programming etc. 
-
-Email: wuhaoyu556@ruc.edu.cn
+# Research experience
+## emotalk 
+[paper](https://arxiv.org/abs/2303.11089) [project]()
 
 
 ![Visitor Count](https://profile-counter.glitch.me/CIntellifusion/count.svg)
