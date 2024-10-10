@@ -21,9 +21,7 @@ I am a fourth-yead undergraduate student at Renmin Unversity of China, supervise
 
 My research interest lies in generative models, AI-generated content, video generation, talking head generation. 
 
-I am seeking PhD opportunities for the fall of 2025.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am seeking PhD opportunities for the fall of 2025. If you are interested in me, please feel free to contact me. 
 
 
 # 🔥 News
@@ -31,10 +29,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- emotalk  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/emotalk.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[ICCV 2023] EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation](https://ziqiaopeng.github.io/emotalk)
+[EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation](https://ziqiaopeng.github.io/emotalk)
 
 Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, Zhaoxin Fan
 [**Project**](https://ziqiaopeng.github.io/emotalk/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -59,8 +58,8 @@ Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He
 - *2023.01*, "Introduction to Linux" of ”Missing Classes” series in RUC Computer Association
 - *2023.08*, AITIME Debate about 3D digital human development \| [\[video\]](https://www.bilibili.com/video/BV1Xh4y1F7Ec/)
 
-# Teaching Experiences
-- *2024.09 - 2025.01*, Teaching Assistant of Introduction to Computer System (I), Renmin University of China.
+<!-- # Teaching Experiences -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Teaching Experiences
+<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2024.09 - 2025.01*, Teaching Assistant of Introduction to Computer System (I), Renmin University of China.
