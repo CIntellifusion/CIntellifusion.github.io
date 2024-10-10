@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoyu Wu's Homepage"
-description              : "Haoyu wu's homepage has little description."
+description              : "Undergraduate student at Renmin University of China majoring Spainish but keen on computer science."
 repository               : "CIntellifusion/CIntellifusion.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoyu Wu"
   avatar           : "images/haoyu.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "Renmin University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
