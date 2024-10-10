@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-yead undergraduate student at Renmin Unversity of China, supervised by Prof. Jun He from Renmin University of China and Prof. Hongyan Liu from Tsinghua University.
+I am a fourth-yead undergraduate student at Renmin Unversity of China, supervised by Prof. Jun He from Renmin University of China and Prof. Hongyan Liu from Tsinghua University. During my visit at HKUST, I was supervised by Prof. Qifeng Chen.
 
-My research interest lies in generative models, AI-generated content, video generation, talking head generation. 
+
+My research interest lies in generative models, AI-generated content, video generation, talking head generation. I am also following a wide range research papers in AI. The papers I have read are saved [here](https://awesome-papers-vercel.vercel.app/) and [here](https://github.com/CIntellifusion/Awesome-Papers) inlcuding topics like MLLM, Diffusion Models, PEFT, RLHF etc. 
+
 
 I am seeking PhD opportunities for the fall of 2025. If you are interested in me, please feel free to contact me. 
 
@@ -42,8 +44,7 @@ Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He
 </div>
 
 - [[preprint] VGG-Tex: A Vivid Geometry-Guided Facial Texture Estimation Model for High Fidelity Monocular 3D Face Reconstruction](https://arxiv.org/abs/2409.09740)
-
-**Haoyu Wu**, Ziqiao Peng, Xukun Zhou, Yunfei Cheng, Jun He, Hongyan Liu, Zhaoxin Fan
+    **Haoyu Wu**, Ziqiao Peng, Xukun Zhou, Yunfei Cheng, Jun He, Hongyan Liu, Zhaoxin Fan
 
 
 # 🎖 Honors and Awards
