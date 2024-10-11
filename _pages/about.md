@@ -17,14 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-yead undergraduate student at Renmin Unversity of China, supervised by Prof. Jun He from Renmin University of China and Prof. Hongyan Liu from Tsinghua University. During my visit at HKUST, I was supervised by Prof. Qifeng Chen.
+I am a fourth-year undergraduate student at Renmin University of China, working under the supervision of Prof. Jun He (Renmin University) and Prof. Hongyan Liu (Tsinghua University). During my visit to HKUST, I was mentored by Prof. Qifeng Chen.
 
+My research interests include generative models, AI-generated content, video generation, and talking head generation. I also keep up with a wide range of research in AI, having explored papers on topics such as MLLM, diffusion models, PEFT, and RLHF, which I have saved [here](https://awesome-papers-vercel.vercel.app/) and [here](https://github.com/CIntellifusion/Awesome-Papers.
 
-My research interest lies in generative models, AI-generated content, video generation, talking head generation. I am also following a wide range research papers in AI. The papers I have read are saved [here](https://awesome-papers-vercel.vercel.app/) and [here](https://github.com/CIntellifusion/Awesome-Papers) inlcuding topics like MLLM, Diffusion Models, PEFT, RLHF etc. 
-
-
-I am seeking PhD opportunities for the fall of 2025. If you are interested in me, please feel free to contact me. 
-
+I am actively seeking PhD opportunities starting in Fall 2025. If my work aligns with your interests, please feel free to reach out to me.
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 Emotalk is accepted by ICCV23.
