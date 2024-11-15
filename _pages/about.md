@@ -25,6 +25,7 @@ I am actively **seeking PhD opportunities** starting in Fall 2025. If my work al
 
 
 # 🔥 News
+- *2024.11.01*: &nbsp;🎉🎉 We make the [VideoTuna](https://github.com/VideoVerses/VideoTuna) V0.1.0 public!
 - *2023.07*: &nbsp;🎉🎉 Emotalk is accepted by ICCV23.
 
 # 📝 Publications 
@@ -62,3 +63,7 @@ Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He
 # 💻 Teaching Experiences
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 - *2024.09 - 2025.01*, Teaching Assistant of Introduction to Computer System (I), Renmin University of China.
+- 
+# 💻 Internships
+
+- *2024.11 - *, MSRA
