@@ -66,4 +66,4 @@ Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He
 - 
 # 💻 Internships
 
-- *2024.11 - *, MSRA
+- *2024.11 -*, MSRA
