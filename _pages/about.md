@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year undergraduate student at Renmin University of China, working under the supervision of Prof. Jun He (Renmin University) and Prof. Hongyan Liu (Tsinghua University). During my visit to HKUST, I was mentored by Prof. Qifeng Chen.
+I am a fourth-year undergraduate student at Renmin University of China, working under the supervision of Prof. Jun He (Renmin University) and Prof. Hongyan Liu (Tsinghua University). During my visit to HKUST, I was supervised by Prof. Qifeng Chen researching about RLHF + Video Generation. Now I am working with Dr.Junliang Guo at ML Group, MSRA.
 
 My research interests include generative models, AI-generated content, video generation, and talking head generation. I also keep up with a wide range of research in AI, having explored papers on topics such as MLLM, diffusion models, PEFT, and RLHF, which I have saved [here](https://awesome-papers-vercel.vercel.app/) and [here](https://github.com/CIntellifusion/Awesome-Papers).
 
-I am actively **seeking PhD opportunities** starting in Fall 2025. If my work aligns with your interests, please feel free to reach out to me. I am highly self-motivated and robust. 
+I am actively **seeking 25 fall PhD opportunities**. If my work aligns with your interests, please feel free to reach out to me. 
 
 
 # 🔥 News
@@ -45,25 +45,21 @@ Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He
 - [[preprint] VGG-Tex: A Vivid Geometry-Guided Facial Texture Estimation Model for High Fidelity Monocular 3D Face Reconstruction](https://arxiv.org/abs/2409.09740)
     **Haoyu Wu**, Ziqiao Peng, Xukun Zhou, Yunfei Cheng, Jun He, Hongyan Liu, Zhaoxin Fan
 
-
-# 🎖 Honors and Awards
-- *2022.11* The Chinese Mathematical Competition,First Prize
-
-
 # 📖 Educations
 - *2021.09 - 2025.07 (now)*, Undergraduate student at Renmin University of China, Beijing, China.
 - *2024.07 - 2025.01 (now)*, Visiting student supervised by Prof. Qifeng Chen at HKUST, Hong Kong, China.
+
+# 💻 Internships
+- *2024.11*, ML Group, Microsoft Research Asia
+
+# 📕 Teaching Experiences
+<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2024.09 - 2025.01*, Teaching Assistant of Introduction to Computer System (I), Renmin University of China.
 
 # 💬 Invited Talks
 - *2023.01*, "Introduction to Linux" of ”Missing Classes” series in RUC Computer Association
 - *2023.08*, AITIME Debate about 3D digital human development \| [\[video\]](https://www.bilibili.com/video/BV1Xh4y1F7Ec/)
 
-<!-- # Teaching Experiences -->
+# 🎖 Honors and Awards
+- *2022.11* The Chinese Mathematical Competition,First Prize
 
-# 💻 Teaching Experiences
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-- *2024.09 - 2025.01*, Teaching Assistant of Introduction to Computer System (I), Renmin University of China.
-- 
-# 💻 Internships
-
-- *2024.11 -*, MSRA

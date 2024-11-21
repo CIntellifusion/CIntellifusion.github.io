@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haoyu Wu"
+  name             : "Haoyu Wu(吴豪宇)"
   avatar           : "images/haoyu.jpg"
   bio              : "Renmin University of China"
   location         : "Beijing, China"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=kiQv84oAAAAJ"
   email            : "wuhaoyu556@ruc.edu.cn"
