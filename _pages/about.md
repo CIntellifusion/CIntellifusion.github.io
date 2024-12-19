@@ -44,7 +44,7 @@ Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He
 </div>
 
 <!-- videodpo  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/videodpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/videodpo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VideoDPO: Omni-Preference Alignment for Video Diffusion Generation](https://videodpo.github.io/)
