@@ -23,6 +23,7 @@ My research interests include generative models, AI-generated content, video gen
 
 I am actively **seeking 25 fall PhD opportunities**. If my work aligns with your interests, please feel free to reach out to me. 
 
+You can find my [CV](https://github.com/CIntellifusion/CIntellifusion.github.io/blob/main/Haoyu_En_CV%20.pdf) here. 
 
 # 🔥 News
 - *2024.12.19*: &nbsp;🎉🎉 We make the [VideoDPO](https://videodpo.github.io) public!
