@@ -25,6 +25,7 @@ I am actively **seeking 25 fall PhD opportunities**. If my work aligns with your
 
 
 # 🔥 News
+- *2024.12.19*: &nbsp;🎉🎉 We make the [VideoDPO](https://videodpo.github.io) public!
 - *2024.11.01*: &nbsp;🎉🎉 We make the [VideoTuna](https://github.com/VideoVerses/VideoTuna) V0.1.0 public!
 - *2023.07*: &nbsp;🎉🎉 Emotalk is accepted by ICCV23.
 
@@ -48,8 +49,9 @@ Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He
 
 [VideoDPO: Omni-Preference Alignment for Video Diffusion Generation](https://videodpo.github.io/)
 
-Runtao Liu*, Haoyu Wu*, Ziqiang Zheng, Chen Wei, Yingqing He, Renjie Pi, Qifeng Chen
-[**Project**](https://videodpo.github.io) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Runtao Liu\*, **Haoyu Wu\***, Ziqiang Zheng, Chen Wei, Yingqing He, Renjie Pi, Qifeng Chen
+
+[**Project**](https://videodpo.github.io) [**Code**](https://github.com/CIntellifusion/VideoDPO/tree/release) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a whole pipeline for DPO finetuning video diffusion models.
 </div>
 </div>
