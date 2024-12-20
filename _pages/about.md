@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year undergraduate student at Renmin University of China, working under the supervision of Prof. Jun He (Renmin University) and Prof. Hongyan Liu (Tsinghua University). During my visit to HKUST, I was supervised by Prof. Qifeng Chen researching about RLHF + Video Generation. Now I am working with Dr.Junliang Guo at ML Group, MSRA.
+I am a final-year undergraduate at Renmin University of China, working under the supervision of Prof. Jun He (Renmin University) and Prof. Hongyan Liu (Tsinghua University). During my visit to HKUST, I was supervised by Prof. Qifeng Chen researching about VideoDPO. Now I am working with Dr.Junliang Guo at ML Group, MSRA.
 
 My research interests include generative models, AI-generated content, video generation, and talking head generation. I also keep up with a wide range of research in AI, having explored papers on topics such as MLLM, diffusion models, PEFT, and RLHF, which I have saved [here](https://awesome-papers-vercel.vercel.app/) and [here](https://github.com/CIntellifusion/Awesome-Papers).
 
-I am actively **seeking 25 fall PhD opportunities**. If my work aligns with your interests, please feel free to reach out to me. 
+I am actively <p style="color: red;">I am actively seeking 25 fall PhD opportunities</p>. If my work aligns with your interests, please feel free to reach out to me. 
 
 You can find my [CV](https://github.com/CIntellifusion/CIntellifusion.github.io/blob/main/Haoyu_En_CV%20.pdf) here. 
 
 # 🔥 News
-- *2024.12.19*: &nbsp;🎉🎉 We make the [VideoDPO](https://videodpo.github.io) public!
+- *2024.12.19*: &nbsp;🎉🎉 We make the [VideoDPO](https://videodpo.github.io) paper and code public!
 - *2024.11.01*: &nbsp;🎉🎉 We make the [VideoTuna](https://github.com/VideoVerses/VideoTuna) V0.1.0 public!
 - *2023.07*: &nbsp;🎉🎉 Emotalk is accepted by ICCV23.
 
@@ -52,7 +52,7 @@ Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He
 
 Runtao Liu\*, **Haoyu Wu\***, Ziqiang Zheng, Chen Wei, Yingqing He, Renjie Pi, Qifeng Chen
 
-[**Project**](https://videodpo.github.io) [**Code**](https://github.com/CIntellifusion/VideoDPO/tree/release) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://videodpo.github.io) [**Code**](https://github.com/CIntellifusion/VideoDPO) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a whole pipeline for DPO finetuning video diffusion models.
 </div>
 </div>
