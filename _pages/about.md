@@ -21,7 +21,7 @@ I am a final-year undergraduate at Renmin University of China, working under the
 
 My research interests include generative models, AI-generated content, video generation, and talking head generation. I also keep up with a wide range of research in AI, having explored papers on topics such as MLLM, diffusion models, PEFT, and RLHF, which I have saved [here](https://awesome-papers-vercel.vercel.app/) and [here](https://github.com/CIntellifusion/Awesome-Papers).
 
-I am actively <p style="color: red;">I am actively seeking 25 fall PhD opportunities</p>. If my work aligns with your interests, please feel free to reach out to me. 
+I am actively <span style="color: red;">I am actively seeking 25 fall PhD opportunities</span>. If my work aligns with your interests, please feel free to reach out to me. 
 
 You can find my [CV](https://github.com/CIntellifusion/CIntellifusion.github.io/blob/main/Haoyu_En_CV%20.pdf) here. 
 
