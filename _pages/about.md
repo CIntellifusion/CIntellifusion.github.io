@@ -23,7 +23,7 @@ My research interests lie in diffusion models, video generation, and world model
 
 <span style="color: red;">I am actively seeking PhD opportunities for Spring/Fall 2026.</span> I am a highly self-motivated student with a deep passion for research and coding. I am eager to work on a series of meaningful projects to advance video generation as a foundation for world simulators.
 
-You can find my [CV](https://github.com/CIntellifusion/CIntellifusion.github.io/blob/main/Haoyu_En_CV%20.pdf) here. 
+<!-- You can find my [CV](https://github.com/CIntellifusion/CIntellifusion.github.io/blob/main/Haoyu_En_CV%20.pdf) here.  -->
 
 # 🔥 News
 
@@ -80,8 +80,8 @@ Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He
     **Haoyu Wu**, Ziqiao Peng, Xukun Zhou, Yunfei Cheng, Jun He, Hongyan Liu, Zhaoxin Fan
 
 # 📖 Educations
-- *2021.09 - 2025.07 *, Undergraduate student at Renmin University of China, Beijing, China.
-- *2024.07 - 2025.01 *, Visiting student supervised by Prof. Qifeng Chen at HKUST, Hong Kong, China.
+- *2021.09 - 2025.07*, Undergraduate student at Renmin University of China, Beijing, China.
+- *2024.07 - 2025.01*, Visiting student supervised by Prof. Qifeng Chen at HKUST, Hong Kong, China.
 
 # 💻 Internships
 
