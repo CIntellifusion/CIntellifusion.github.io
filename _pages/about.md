@@ -17,20 +17,50 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year undergraduate at Renmin University of China, working under the supervision of Prof. Jun He (Renmin University) and Prof. Hongyan Liu (Tsinghua University). During my visit to HKUST, I was supervised by Prof. Qifeng Chen researching about VideoDPO. Now I am working with Dr.Junliang Guo at ML Group, MSRA.
+I received my Bachelor's degree from Renmin University of China, where I worked under the supervision of Prof. Jun He from Renmin University of China and Prof. Hongyan Liu from Tsinghua University. During my visit to HKUST, I was fortunate to be advised by Prof. Qifeng Chen, focusing on video generation. After that, I was an intern at MSRA, working with Dr. Junliang Guo and Tianyu He focusing on video generation and world simulator.
 
-My research interests include generative models, AI-generated content, video generation, and talking head generation. I also keep up with a wide range of research in AI, having explored papers on topics such as MLLM, diffusion models, PEFT, and RLHF, which I have saved [here](https://awesome-papers-vercel.vercel.app/) and [here](https://github.com/CIntellifusion/Awesome-Papers).
+My research interests lie in diffusion models, video generation, and world modeling. I am currently interested in build interactive, real-time, and consistent video generation models that can serve as world simulators.
 
-I am actively <span style="color: red;">I am actively seeking 25 fall PhD opportunities</span>. If my work aligns with your interests, please feel free to reach out to me. 
+<span style="color: red;">I am actively seeking PhD opportunities for Spring/Fall 2026.</span> I am a highly self-motivated student with a deep passion for research and coding. I am eager to work on a series of meaningful projects to advance video generation as a foundation for world simulators.
 
 You can find my [CV](https://github.com/CIntellifusion/CIntellifusion.github.io/blob/main/Haoyu_En_CV%20.pdf) here. 
 
 # 🔥 News
+
+- *2025.07.11*: &nbsp;🎉🎉 We release [Geometry Forcing](https://geometryforcing.github.io/)!
+- *2025.02.26*: &nbsp;🎉🎉 VideoDPO was accepted by CVPR2025!
 - *2024.12.19*: &nbsp;🎉🎉 We make the [VideoDPO](https://videodpo.github.io) paper and code public!
 - *2024.11.01*: &nbsp;🎉🎉 We make the [VideoTuna](https://github.com/VideoVerses/VideoTuna) V0.1.0 public!
 - *2023.07*: &nbsp;🎉🎉 Emotalk is accepted by ICCV23.
 
 # 📝 Publications 
+
+<!-- videodpo  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/geometry_forcing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling](https://geometryforcing.github.io/)
+
+**Haoyu Wu\***, Diankun Wu\*, Tianyu He, Junliang Guo, Yang Ye, Yueqi Duan, Jiang Bian
+
+[**Paper**](https://arxiv.org/abs/2507.07982) [**Project**](https://geometryforcing.github.io/) [**Code**](https://github.com/CIntellifusion/GeometryForcing)
+- Geometry Forcing encourages video diffusion models to internalize latent 3D representations in order to bridge the gap between video diffusion models and the 3D nature of the real world. 
+</div>
+</div>
+
+
+<!-- videodpo  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/videodpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VideoDPO: Omni-Preference Alignment for Video Diffusion Generation](https://videodpo.github.io/)
+
+Runtao Liu\*, **Haoyu Wu\***, Ziqiang Zheng, Chen Wei, Yingqing He, Renjie Pi, Qifeng Chen
+
+[**Paper**](https://arxiv.org/abs/2412.14167) [**Project**](https://videodpo.github.io) [**Code**](https://github.com/CIntellifusion/VideoDPO) 
+- We propose a whole pipeline for DPO finetuning video diffusion models.
+</div>
+</div>
 
 <!-- emotalk  -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/emotalk.jpg' alt="sym" width="100%"></div></div>
@@ -44,28 +74,18 @@ Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He
 </div>
 </div>
 
-<!-- videodpo  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/videodpo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[VideoDPO: Omni-Preference Alignment for Video Diffusion Generation](https://videodpo.github.io/)
-
-Runtao Liu\*, **Haoyu Wu\***, Ziqiang Zheng, Chen Wei, Yingqing He, Renjie Pi, Qifeng Chen
-
-[**Project**](https://videodpo.github.io) [**Code**](https://github.com/CIntellifusion/VideoDPO) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a whole pipeline for DPO finetuning video diffusion models.
-</div>
-</div>
 
 - [[preprint] VGG-Tex: A Vivid Geometry-Guided Facial Texture Estimation Model for High Fidelity Monocular 3D Face Reconstruction](https://arxiv.org/abs/2409.09740)
     **Haoyu Wu**, Ziqiao Peng, Xukun Zhou, Yunfei Cheng, Jun He, Hongyan Liu, Zhaoxin Fan
 
 # 📖 Educations
-- *2021.09 - 2025.07 (now)*, Undergraduate student at Renmin University of China, Beijing, China.
-- *2024.07 - 2025.01 (now)*, Visiting student supervised by Prof. Qifeng Chen at HKUST, Hong Kong, China.
+- *2021.09 - 2025.07 *, Undergraduate student at Renmin University of China, Beijing, China.
+- *2024.07 - 2025.01 *, Visiting student supervised by Prof. Qifeng Chen at HKUST, Hong Kong, China.
 
 # 💻 Internships
-- *2024.11*, ML Group, Microsoft Research Asia
+
+- *2024.11-2025.07*, ML Group, Microsoft Research Asia
 
 # 📕 Teaching Experiences
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
