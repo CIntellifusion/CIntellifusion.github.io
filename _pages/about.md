@@ -26,7 +26,7 @@ My research interests lie in diffusion models, video generation, and world model
 <!-- You can find my [CV](https://github.com/CIntellifusion/CIntellifusion.github.io/blob/main/Haoyu_En_CV%20.pdf) here.  -->
 
 # 🔥 News
-
+- *2025.09.22*: &nbsp;🎉🎉 [Geometry Forcing](https://geometryforcing.github.io/) is accepted to [NeurIPS 2025 NextVid Workshop](https://what-makes-good-video.github.io/)!
 - *2025.07.11*: &nbsp;🎉🎉 We release [Geometry Forcing](https://geometryforcing.github.io/)!
 - *2025.02.26*: &nbsp;🎉🎉 VideoDPO was accepted by CVPR2025!
 - *2024.12.19*: &nbsp;🎉🎉 We make the [VideoDPO](https://videodpo.github.io) paper and code public!
