@@ -21,7 +21,8 @@ I received my Bachelor's degree from Renmin University of China, where I worked 
 
 My research interests lie in diffusion models, video generation, and world modeling. I am currently interested in build interactive, real-time, and consistent video generation models that can serve as world simulators.
 
-<span style="color: red;">I am actively seeking PhD opportunities for Spring/Fall 2026.</span> I am a highly self-motivated student with a deep passion for research and coding. I am eager to work on a series of meaningful projects to advance video generation as a foundation for world simulators.
+<!-- <span style="color: red;">I am actively seeking PhD opportunities for Spring/Fall 2026.</span>  -->
+I am a highly self-motivated student with a deep passion for research and coding. I am eager to work on a series of meaningful projects to advance video generation as a foundation for world simulators.
 
 <!-- You can find my [CV](https://github.com/CIntellifusion/CIntellifusion.github.io/blob/main/Haoyu_En_CV%20.pdf) here.  -->
 
