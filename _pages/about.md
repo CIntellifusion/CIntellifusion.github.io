@@ -27,6 +27,7 @@ I am a highly self-motivated student with a deep passion for research and coding
 <!-- You can find my [CV](https://github.com/CIntellifusion/CIntellifusion.github.io/blob/main/Haoyu_En_CV%20.pdf) here.  -->
 
 # 🔥 News
+- *2026.01.26*: &nbsp;🎉🎉 [Geometry Forcing](https://geometryforcing.github.io/) is accepted to [ICLR26](https://iclr.cc/)!
 - *2025.09.22*: &nbsp;🎉🎉 [Geometry Forcing](https://geometryforcing.github.io/) is accepted to [NeurIPS 2025 NextVid Workshop](https://what-makes-good-video.github.io/)!
 - *2025.07.11*: &nbsp;🎉🎉 We release [Geometry Forcing](https://geometryforcing.github.io/)!
 - *2025.02.26*: &nbsp;🎉🎉 VideoDPO was accepted by CVPR2025!
@@ -37,7 +38,7 @@ I am a highly self-motivated student with a deep passion for research and coding
 # 📝 Publications 
 
 <!-- videodpo  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/geometry_forcing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/geometry_forcing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling](https://geometryforcing.github.io/)
