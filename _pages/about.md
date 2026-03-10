@@ -16,13 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am a Ph.D. student at HKU supervised by [Prof. Xihui Liu](https://xh-liu.github.io/). Prior to that, I received my Bachelor's degree from Renmin University of China, where I worked under the supervision of Prof. Jun He from Renmin University of China and Prof. Hongyan Liu from Tsinghua University. During my visit to HKUST, I was fortunate to be advised by Prof. Qifeng Chen, focusing on video generation. After that, I was an intern at MSRA, working with Dr. Junliang Guo and Tianyu He focusing on video generation and world simulator.
 
-I received my Bachelor's degree from Renmin University of China, where I worked under the supervision of Prof. Jun He from Renmin University of China and Prof. Hongyan Liu from Tsinghua University. During my visit to HKUST, I was fortunate to be advised by Prof. Qifeng Chen, focusing on video generation. After that, I was an intern at MSRA, working with Dr. Junliang Guo and Tianyu He focusing on video generation and world simulator.
-
-My research interests lie in diffusion models, video generation, and world modeling. I am currently interested in build interactive, real-time, and consistent video generation models that can serve as world simulators.
+My research interests lie in building video world models. I am specifically interested in build interactive, real-time, and consistent video generation models that can serve as world simulators.
 
 <!-- <span style="color: red;">I am actively seeking PhD opportunities for Spring/Fall 2026.</span>  -->
-I am a highly self-motivated student with a deep passion for research and coding. I am eager to work on a series of meaningful projects to advance video generation as a foundation for world simulators.
+I am a highly self-motivated student with a deep passion for research and coding. I am eager to work on a series of influential projects to advance video generation as a foundation for world simulators.
+
+You could find me through `wuhaoyu556@connect.hku.hk`.
 
 <!-- You can find my [CV](https://github.com/CIntellifusion/CIntellifusion.github.io/blob/main/Haoyu_En_CV%20.pdf) here.  -->
 
