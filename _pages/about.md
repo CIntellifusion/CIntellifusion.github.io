@@ -28,6 +28,7 @@ You could find me through `wuhaoyu556@connect.hku.hk`.
 <!-- You can find my [CV](https://github.com/CIntellifusion/CIntellifusion.github.io/blob/main/Haoyu_En_CV%20.pdf) here.  -->
 
 # 🔥 News
+- *2026.06.04*: &nbsp;🎉🎉 [MultiWorld](https://multi-world.github.io/) is awarded as Best Paper Award in [CVPR SCI-MARS Workshop](https://mars-eai.github.io/CVPR-SCI-MARS-Webpage/#call-for-papers)!
 - *2026.01.26*: &nbsp;🎉🎉 [Geometry Forcing](https://geometryforcing.github.io/) is accepted to [ICLR26](https://iclr.cc/)!
 - *2025.09.22*: &nbsp;🎉🎉 [Geometry Forcing](https://geometryforcing.github.io/) is accepted to [NeurIPS 2025 NextVid Workshop](https://what-makes-good-video.github.io/)!
 - *2025.07.11*: &nbsp;🎉🎉 We release [Geometry Forcing](https://geometryforcing.github.io/)!
@@ -38,7 +39,20 @@ You could find me through `wuhaoyu556@connect.hku.hk`.
 
 # 📝 Publications 
 
-<!-- videodpo  -->
+<!-- multiworld  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Best Paper</div><img src='images/multiworld.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MultiWorld: Scalable Multi-Agent Multi-View Video World Models](https://multi-world.github.io/)
+
+**Haoyu Wu**, Jiwen Yu, Yingtian Zou, Xihui Liu
+
+[**Paper**](https://arxiv.org/abs/2604.18564) [**Project**](https://multi-world.github.io/)
+- We present MultiWorld, a scalable multi-agent multi-view video world model that generates action-controllable, multi-view consistent videos for both multi-player games and multi-robot manipulation.
+</div>
+</div>
+
+<!-- geometry forcing -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/geometry_forcing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +64,6 @@ You could find me through `wuhaoyu556@connect.hku.hk`.
 - Geometry Forcing encourages video diffusion models to internalize latent 3D representations in order to bridge the gap between video diffusion models and the 3D nature of the real world. 
 </div>
 </div>
-
 
 <!-- videodpo  -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/videodpo.png' alt="sym" width="100%"></div></div>
