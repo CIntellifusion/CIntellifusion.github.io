@@ -20,12 +20,10 @@ I am a Ph.D. student at HKU supervised by [Prof. Xihui Liu](https://xh-liu.githu
 
 My research interests lie in building video world models. I am specifically interested in build interactive, real-time, and consistent video generation models that can serve as world simulators.
 
-<!-- <span style="color: red;">I am actively seeking PhD opportunities for Spring/Fall 2026.</span>  -->
 I am a highly self-motivated student with a deep passion for research and coding. I am eager to work on a series of influential projects to advance video generation as a foundation for world simulators.
 
 You could find me through `wuhaoyu556@connect.hku.hk`.
 
-<!-- You can find my [CV](https://github.com/CIntellifusion/CIntellifusion.github.io/blob/main/Haoyu_En_CV%20.pdf) here.  -->
 
 # 🔥 News
 - *2026.06.04*: &nbsp;🎉🎉 [MultiWorld](https://multi-world.github.io/) is awarded as Best Paper Award in [CVPR SCI-MARS Workshop](https://mars-eai.github.io/CVPR-SCI-MARS-Webpage/#call-for-papers)!
@@ -47,7 +45,7 @@ You could find me through `wuhaoyu556@connect.hku.hk`.
 
 **Haoyu Wu**, Jiwen Yu, Yingtian Zou, Xihui Liu
 
-[**Paper**](https://arxiv.org/abs/2604.18564) [**Project**](https://multi-world.github.io/)
+[**Paper**](https://arxiv.org/abs/2604.18564) [**Project**](https://multi-world.github.io/) [**Code**](https://github.com/CIntellifusion/MultiWorld)
 - We present MultiWorld, a scalable multi-agent multi-view video world model that generates action-controllable, multi-view consistent videos for both multi-player games and multi-robot manipulation.
 </div>
 </div>
