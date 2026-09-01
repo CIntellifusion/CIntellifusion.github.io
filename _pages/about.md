@@ -45,7 +45,7 @@ You could find me through `wuhaoyu556@connect.hku.hk`.
 
 **Haoyu Wu**, Jiwen Yu, Yingtian Zou, Xihui Liu
 
-[**Paper**](https://arxiv.org/abs/2604.18564) [**Project**](https://multi-world.github.io/) [**Code**](https://github.com/CIntellifusion/MultiWorld)
+[**Paper**](https://arxiv.org/abs/2604.18564) [**Project**](https://multi-world.github.io/) [**Code**](https://github.com/CIntellifusion/MultiWorld) [**Dataset**](https://huggingface.co/datasets/Haoyuwu/MultiWorldData)
 - We present MultiWorld, a scalable multi-agent multi-view video world model that generates action-controllable, multi-view consistent videos for both multi-player games and multi-robot manipulation.
 </div>
 </div>
