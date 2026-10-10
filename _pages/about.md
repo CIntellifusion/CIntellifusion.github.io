@@ -26,6 +26,7 @@ You could find me through `wuhaoyu556@connect.hku.hk`.
 
 
 # 🔥 News
+- *2026.10.06*: &nbsp;🎉🎉 We release [Recursive Game Creator](https://imbaldy.github.io/recursive-game-creator/), an experience-oriented harness for recursive game development!
 - *2026.06.04*: &nbsp;🎉🎉 [MultiWorld](https://multi-world.github.io/) is awarded as Best Paper Award in [CVPR SCI-MARS Workshop](https://mars-eai.github.io/CVPR-SCI-MARS-Webpage/#call-for-papers)!
 - *2026.01.26*: &nbsp;🎉🎉 [Geometry Forcing](https://geometryforcing.github.io/) is accepted to [ICLR26](https://iclr.cc/)!
 - *2025.09.22*: &nbsp;🎉🎉 [Geometry Forcing](https://geometryforcing.github.io/) is accepted to [NeurIPS 2025 NextVid Workshop](https://what-makes-good-video.github.io/)!
@@ -36,6 +37,19 @@ You could find me through `wuhaoyu556@connect.hku.hk`.
 - *2023.07*: &nbsp;🎉🎉 Emotalk is accepted by ICCV23.
 
 # 📝 Publications 
+
+<!-- recursive game creator -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/recursive_game_creator.png' alt="Recursive Game Creator workflow connecting Designer, Builder, Player, and Reviewer" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness](https://imbaldy.github.io/recursive-game-creator/)
+
+Jiajun Chen\*, **Haoyu Wu\***, Mingda Jia\*, Xihui Liu (\* equal contribution)
+
+[**Paper**](https://arxiv.org/abs/2610.08621) [**Project**](https://imbaldy.github.io/recursive-game-creator/) [**Code**](https://github.com/IMBALDY/RecursiveGameCreator)
+- We present Recursive Game Creator, an experience-oriented harness that iteratively improves games through a Designer–Builder–Player–Reviewer loop using gameplay evidence and player preferences.
+</div>
+</div>
 
 <!-- multiworld  -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Best Paper</div><img src='images/multiworld.png' alt="sym" width="100%"></div></div>
@@ -111,4 +125,3 @@ Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He
 
 # 🎖 Honors and Awards
 - *2022.11* The Chinese Mathematical Competition,First Prize
-
