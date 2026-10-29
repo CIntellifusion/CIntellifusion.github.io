@@ -108,22 +108,47 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.author__citations {
-    margin: .5em 0 1em;
+.intro-scholar {
+    margin: .9em 0 1.1em;
+}
 
-    a {
-        color: $link-color;
+.page__content a.scholar-badge {
+    display: inline-flex;
+    align-items: stretch;
+    max-width: 100%;
+    overflow: hidden;
+    border: 1px solid $link-color;
+    border-radius: $border-radius;
+    font-size: .875em;
+    line-height: 1.4;
+    text-decoration: none;
+    vertical-align: middle;
+
+    &:hover,
+    &:focus-visible {
         text-decoration: none;
-
-        &:hover {
-            text-decoration: underline;
-        }
+        box-shadow: 0 0 0 3px rgba($link-color, .12);
     }
+}
 
-    #total_cit {
-        font-weight: bold;
-        font-variant-numeric: tabular-nums;
-    }
+.scholar-badge__label,
+.scholar-badge__count {
+    display: inline-flex;
+    align-items: center;
+    gap: .45em;
+    padding: .45em .75em;
+    white-space: nowrap;
+}
+
+.scholar-badge__label {
+    color: #fff;
+    background-color: $link-color;
+}
+
+.scholar-badge__count {
+    color: $link-color;
+    background-color: mix(#fff, $link-color, 94%);
+    font-variant-numeric: tabular-nums;
 }
 
 .author__scholar-link .ai {

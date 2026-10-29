@@ -17,6 +17,14 @@ I am a highly self-motivated student with a deep passion for research and coding
 
 You could find me through `wuhaoyu556@connect.hku.hk`.
 
+{% if site.author.googlescholar %}
+<p class="intro-scholar">
+  <a class="scholar-badge" href="{{ site.author.googlescholar | escape }}" title="View my Google Scholar profile and total citations">
+    <span class="scholar-badge__label"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</span>
+    <span class="scholar-badge__count" aria-live="polite" aria-atomic="true">Citations <strong id="total_cit">—</strong></span>
+  </a>
+</p>
+{% endif %}
 
 # 🔥 News
 - *2026.10.06*: &nbsp;🎉🎉 We release [Recursive Game Creator](https://imbaldy.github.io/recursive-game-creator/), an experience-oriented harness for recursive game development!
