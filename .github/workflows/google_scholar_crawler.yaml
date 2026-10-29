@@ -1,16 +1,8 @@
 name: Get Citation Data
 
 on:
+  # Citation displays are removed; fetch data only when explicitly requested.
   workflow_dispatch:
-  page_build:
-  push:
-    branches: [main]
-    paths:
-      - .github/workflows/google_scholar_crawler.yaml
-      - google_scholar_crawler/**
-      - _config.yml
-  schedule:
-    - cron: '17 8 * * *'
 
 permissions:
   contents: write
