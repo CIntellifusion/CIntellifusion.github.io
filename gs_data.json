@@ -1,0 +1,258 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "kiQv84oAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Haoyu Wu(吴豪宇)",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kiQv84oAAAAJ&citpid=10",
+  "affiliation": "The University of Hong Kong",
+  "organization": 2533886145175476393,
+  "interests": [
+    "Embodied AI",
+    "(Agentic) World Model",
+    "Game AI"
+  ],
+  "email_domain": "@connect.hku.hk",
+  "homepage": "https://cintellifusion.github.io/",
+  "citedby": 764,
+  "publications": {
+    "kiQv84oAAAAJ:9yKSN-GCB0IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EmoTalk: Speech-driven emotional disentanglement for 3D face animation",
+        "pub_year": "2023",
+        "citation": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 294,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2674036418232514619",
+      "cites_id": [
+        "2674036418232514619"
+      ]
+    },
+    "kiQv84oAAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Videodpo: Omni-preference alignment for video diffusion generation",
+        "pub_year": "2025",
+        "citation": "Proceedings of the Computer Vision and Pattern Recognition Conference, 8009-8019, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:qjMakFHDy7sC",
+      "num_citations": 136,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7586675930894084103",
+      "cites_id": [
+        "7586675930894084103"
+      ]
+    },
+    "kiQv84oAAAAJ:IjCSPb-OGe4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2504.08388, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 110,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10982109491142945053,7558621799190484235",
+      "cites_id": [
+        "10982109491142945053",
+        "7558621799190484235"
+      ]
+    },
+    "kiQv84oAAAAJ:W7OEmFMy1HYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling",
+        "pub_year": "2025",
+        "citation": "ICLR26, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 99,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6762225843637397387",
+      "cites_id": [
+        "6762225843637397387"
+      ]
+    },
+    "kiQv84oAAAAJ:zYLM7Y9cAGgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dualtalk: Dual-speaker interaction for 3d talking head conversations",
+        "pub_year": "2025",
+        "citation": "Proceedings of the Computer Vision and Pattern Recognition Conference, 21055 …, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 46,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9584852866487219017",
+      "cites_id": [
+        "9584852866487219017"
+      ]
+    },
+    "kiQv84oAAAAJ:Y0pCki6q_DkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CoheDancers: Enhancing Interactive Group Dance Generation through Music-Driven Coherence Decomposition",
+        "pub_year": "2024",
+        "citation": "ACM MM, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3763746396232438518",
+      "cites_id": [
+        "3763746396232438518"
+      ]
+    },
+    "kiQv84oAAAAJ:eQOLeE2rZwMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MultiWorld: Scalable Multi-Agent Multi-View Video World Models",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2604.18564, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 18,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18350200177439800896",
+      "cites_id": [
+        "18350200177439800896"
+      ]
+    },
+    "kiQv84oAAAAJ:WF5omc3nYNoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2605.04128, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:WF5omc3nYNoC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5664142417280336141",
+      "cites_id": [
+        "5664142417280336141"
+      ]
+    },
+    "kiQv84oAAAAJ:_FxGoFyzp5QC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2607.27380, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8656946916719676331",
+      "cites_id": [
+        "8656946916719676331"
+      ]
+    },
+    "kiQv84oAAAAJ:UeHWp8X0CEIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Fast Autoregressive Video Generation with Diagonal Decoding",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2503.14070, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12853411068444473814",
+      "cites_id": [
+        "12853411068444473814"
+      ]
+    },
+    "kiQv84oAAAAJ:ufrVoPGSRksC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EchoWM: Open and Enterable Omnimodal World Models",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2608.23189, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:ufrVoPGSRksC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6139097838018399501",
+      "cites_id": [
+        "6139097838018399501"
+      ]
+    },
+    "kiQv84oAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "VGG-Tex: A Vivid Geometry-Guided Facial Texture Estimation Model for High Fidelity Monocular 3D Face Reconstruction",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2409.09740, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=656701171776771147",
+      "cites_id": [
+        "656701171776771147"
+      ]
+    },
+    "kiQv84oAAAAJ:LkGwnXOMwfcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2610.08621, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8764769439905723838",
+      "cites_id": [
+        "8764769439905723838"
+      ]
+    },
+    "kiQv84oAAAAJ:Se3iqnhoufwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation",
+        "pub_year": "2026",
+        "citation": "arXiv preprint arXiv:2610.10429, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "kiQv84oAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    }
+  },
+  "citedby5y": 764,
+  "hindex": 8,
+  "hindex5y": 8,
+  "i10index": 8,
+  "i10index5y": 8,
+  "cites_per_year": {
+    "2023": 18,
+    "2024": 64,
+    "2025": 201,
+    "2026": 477
+  },
+  "updated": "2026-10-29T07:27:12.439092+00:00"
+}
