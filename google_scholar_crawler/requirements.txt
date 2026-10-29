@@ -1,2 +1,6 @@
-jsonpickle==1.4.2
-scholarly==1.5.1
+PyYAML==6.0.3
+scholarly==1.7.11
+# scholarly imports bibtexparser's 1.x API.
+bibtexparser==1.4.4
+# scholarly still uses the proxies argument removed in httpx 0.28.
+httpx[socks]==0.27.2

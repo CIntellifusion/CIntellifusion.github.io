@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 I am a Ph.D. student at HKU supervised by [Prof. Xihui Liu](https://xh-liu.github.io/). Prior to that, I received my Bachelor's degree from Renmin University of China, where I worked under the supervision of Prof. Jun He from Renmin University of China and Prof. Hongyan Liu from Tsinghua University. During my visit to HKUST, I was fortunate to be advised by Prof. Qifeng Chen, focusing on video generation. After that, I was an intern at MSRA, working with Dr. Junliang Guo and Tianyu He focusing on video generation and world simulator.
 
@@ -97,7 +90,7 @@ Runtao Liu\*, **Haoyu Wu\***, Ziqiang Zheng, Chen Wei, Yingqing He, Renjie Pi, Q
 [EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation](https://ziqiaopeng.github.io/emotalk)
 
 Ziqiao Peng, **Haoyu Wu**, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, Zhaoxin Fan
-[**Project**](https://ziqiaopeng.github.io/emotalk/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://ziqiaopeng.github.io/emotalk/) <strong><span class='show_paper_citations' data='kiQv84oAAAAJ:9yKSN-GCB0IC'></span></strong>
 - We propose an end-to-end neural network for speech-driven emotion-enhanced 3D facial animation.
 </div>
 </div>
