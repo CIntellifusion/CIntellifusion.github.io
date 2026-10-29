@@ -107,3 +107,25 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.author__citations {
+    margin: .5em 0 1em;
+
+    a {
+        color: $link-color;
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    #total_cit {
+        font-weight: bold;
+        font-variant-numeric: tabular-nums;
+    }
+}
+
+.author__scholar-link .ai {
+    color: $link-color;
+}
